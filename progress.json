@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T03:17:04.911Z",
+  "generated_at": "2026-09-23T06:49:55.793Z",
   "items": {
     "problem:121": {
       "kind": "problem",
@@ -146,6 +146,17 @@
       "last_pushed_at": "2026-09-23T03:16:56.042Z",
       "language": "python",
       "lines": 8
+    },
+    "math:45": {
+      "kind": "math",
+      "id": "45",
+      "title": "Uniform Quantization: Scale and Zero-Point",
+      "difficulty": "medium",
+      "category": "Quantization",
+      "url": "https://www.deep-ml.com/math-problems/45",
+      "path": "math/0045-uniform-quantization-scale-and-zero-point",
+      "first_solved_at": "2026-09-23T06:49:46.088Z",
+      "last_pushed_at": "2026-09-23T06:49:46.088Z"
     }
   }
 }
