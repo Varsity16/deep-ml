@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**16** solved · 10 problems · 0 labs · 6 math
+**17** solved · 10 problems · 1 labs · 6 math
 
 ![Coverage](./coverage.svg)
 
@@ -22,6 +22,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Post-Training Quantization with Per-Channel Scale Factors](https://www.deep-ml.com/problems/426) | medium | 2026-09-23 | [solution](problems/0426-post-training-quantization-with-per-channel-scale-factors) |
 | [Quantization Scale Calibration (AbsMax and Percentile)](https://www.deep-ml.com/problems/1255) | medium | 2026-09-24 | [solution](problems/1255-quantization-scale-calibration-absmax-and-percentile) |
 | [FP4 Quantization with Microscaling (MXFP4)](https://www.deep-ml.com/problems/427) | hard | 2026-09-24 | [solution](problems/0427-fp4-quantization-with-microscaling-mxfp4) |
+
+## Labs
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Design Your Own PTQ](https://www.deep-ml.com/labs/36) | medium | 2026-09-24 | [solution](labs/0036-design-your-own-ptq) |
 
 ## Math
 
